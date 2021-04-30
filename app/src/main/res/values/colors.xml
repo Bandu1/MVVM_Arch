@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F4511E</color>
+    <color name="colorPrimaryDark">#F4511E</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!--Splash Color-->
+    <color name="color_red">#F4511E</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <!--Login -->
+
+    <color name="white">#FEFEFE</color>
+    <color name="textBlack">#313131</color>
+    <color name="edttxt_box_backgrnd_color">#EFF2F7</color>
+    <color name="edttxt_hint_color">#77808C</color>
+    <color name="text_color">#273444</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="black_text_color">#3C4858</color>
+    <color name="org_text_color">#F4511E</color>
+
+</resources>
